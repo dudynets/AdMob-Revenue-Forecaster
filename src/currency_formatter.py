@@ -1,6 +1,6 @@
 """
 Currency Formatter Module
-Handles currency conversion and formatting for the AdMob Revenue Forecasting Application
+Handles currency conversion and formatting for the AdMob Revenue Forecaster
 """
 
 import requests

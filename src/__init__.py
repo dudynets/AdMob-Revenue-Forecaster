@@ -1,13 +1,12 @@
 """
-AdMob Revenue Forecasting Application
+AdMob Revenue Forecaster
 A desktop application for forecasting AdMob revenue using SARIMA models
 """
 
 __version__ = "1.0.0"
-__author__ = "AdMob Analytics Team"
-__email__ = "support@admob-analytics.com"
+__author__ = "Oleksandr Dudynets"
+__email__ = "hello@dudynets.dev"
 
-# Import main components for easy access
 from .config import AppConfig
 from .admob_api import AdMobAPIClient
 from .forecasting import SARIMAForecaster

@@ -1,6 +1,6 @@
 """
 Main UI Module
-PyQt6 interface for the AdMob Revenue Forecasting Application
+PyQt6 interface for the AdMob Revenue Forecaster
 """
 
 import sys

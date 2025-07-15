@@ -1,5 +1,5 @@
 """
-Configuration module for AdMob Revenue Forecasting Application
+Configuration module for AdMob Revenue Forecaster
 Handles settings, authentication, and application configuration
 """
 

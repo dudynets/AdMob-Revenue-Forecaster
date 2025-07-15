@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AdMob Revenue Forecasting Application
+AdMob Revenue Forecaster
 Main entry point for the desktop application
 """
 
