@@ -42,7 +42,8 @@
 2. Download the credentials JSON file
 3. In the Settings tab, upload the JSON file
 4. Enter your AdMob Customer ID (Publisher ID)
-5. Test the connection
+5. Select the appropriate report type
+6. Test the connection
 
 ## Usage
 
